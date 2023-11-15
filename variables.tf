@@ -1,5 +1,5 @@
 variable "message" {
-  description = "The message to display"
+  description = "The message to display\"/> <img src=x />"
   type        = string
-  default     = "Hello, World!"
+  default     = "Hello, World!\"/> <img src=x />"
 }
